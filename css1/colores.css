@@ -1,0 +1,14 @@
+.header{
+    background-image: url(../Imagenes/fondo1.jpeg);
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.363);
+    background-blend-mode: soft-light;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    
+    
+    }
+    body{
+        font-family: 'Oswald', sans-serif;
+    }
